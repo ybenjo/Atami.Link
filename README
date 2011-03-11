@@ -1,0 +1,8 @@
+* Atami.Link
+
+** Description  
+Unsupervised link prediction implemented C++.  
+
+** Method
+Ryan N, et al. (2010), New perspectives and methods in link prediction, KDD'10
+http://portal.acm.org/citation.cfm?id=1835837
